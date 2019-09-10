@@ -1,0 +1,126 @@
+*{
+	margin: 0px;
+}
+#div01{
+	width: 100%;
+}
+#div001{
+	width: 100%;
+	position: absolute;
+
+}
+#div001> img{
+	width: 100%;
+}
+#div01> img{
+	width: 100%;
+	
+}
+
+#div02{
+	display: flex;
+	justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+#div02 > img{
+	width: 20%;
+	
+}
+
+#div03{
+	width: 100%;
+}
+
+#div03 > #div03_top > img{
+	width: 100%;
+}
+#div03 > #div03_bm{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	
+	
+	}
+#div03 > #div03_bm > img{
+	width: 30%;
+}
+
+#div04{
+    width: 100%;
+}
+
+#div04 > #div04_top > img{
+	width: 100%;
+}
+#div04> #div04_mi{
+	display: flex;
+	justify-content:space-between;
+	align-items: center;
+}
+#div04 > #div04_mi > img{
+	width: 24%;
+}
+#div04> #div04_bm{
+	display: flex;
+	justify-content:space-between;
+	align-items: center;
+
+}
+#div04 > #div04_bm > img{
+	width: 10%;
+}	
+
+#div04> #div04_bm2{
+	width: 100%;
+	display:flex;
+	justify-content:space-around;
+
+}
+#div04 > #div04_bm2 > p{
+	color: #de3d96;
+	
+}
+
+#div05{
+	width: 100%;
+}
+#div05 > #div05_top > img{
+	width: 100%;
+}
+#div05> #div05_mi{
+	display: flex;
+	justify-content:space-around;
+	align-items: center;
+}
+#div05 > #div05_mi > img{
+	width: 31%;
+}
+#div05> #div05_bm{
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	
+}
+#div05 > #div05_bm > p{
+	
+	color: #de3d96;
+}
+
+#div06{
+	width: 100%;
+}
+#div06 > #div06_top > img{
+	width: 100%;
+}
+#div06 > #div06_mi > img{
+	width: 100%;
+}
+
+#div06 > #div06_bm {
+	width: 100%;
+	display: flex;
+	justify-content:space-between;
+	color:  dimgrey;
+}
+
